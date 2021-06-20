@@ -4,8 +4,21 @@ namespace App\Controllers;
 
 class Home extends BaseController
 {
+	public function __constructor(){
+		parrent::__construct();
+		$this->load->helper('url-helper');
+		$this->load->model('Data');
+	}
 	public function index()
 	{
 		return view('welcome_message');
+	}
+	
+	public function  getSTudents(){
+		$request = $_SERVER['REQUEST_METHOD'];
+		if($request == "GET"){
+
+		}
+		
 	}
 }
