@@ -14,11 +14,8 @@ class Home extends BaseController
 		return view('welcome_message');
 	}
 	
-	public function  getSTudents(){
-		$request = $_SERVER['REQUEST_METHOD'];
-		if($request == "GET"){
-
-		}
-		
+	public function  getSTudents($age){
+		echo "hello world";
 	}
+	
 }
