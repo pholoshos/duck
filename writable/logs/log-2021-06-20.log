@@ -1,0 +1,111 @@
+CRITICAL - 2021-06-20 06:56:28 --> Too few arguments to function App\Controllers\Home::getSTudents(), 0 passed in /Applications/AMPPS/www/duck/system/CodeIgniter.php on line 928 and exactly 1 expected
+#0 /Applications/AMPPS/www/duck/system/CodeIgniter.php(928): App\Controllers\Home->getSTudents()
+#1 /Applications/AMPPS/www/duck/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /Applications/AMPPS/www/duck/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/AMPPS/www/duck/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-20 06:56:30 --> Too few arguments to function App\Controllers\Home::getSTudents(), 0 passed in /Applications/AMPPS/www/duck/system/CodeIgniter.php on line 928 and exactly 1 expected
+#0 /Applications/AMPPS/www/duck/system/CodeIgniter.php(928): App\Controllers\Home->getSTudents()
+#1 /Applications/AMPPS/www/duck/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /Applications/AMPPS/www/duck/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/AMPPS/www/duck/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-20 06:56:31 --> Too few arguments to function App\Controllers\Home::getSTudents(), 0 passed in /Applications/AMPPS/www/duck/system/CodeIgniter.php on line 928 and exactly 1 expected
+#0 /Applications/AMPPS/www/duck/system/CodeIgniter.php(928): App\Controllers\Home->getSTudents()
+#1 /Applications/AMPPS/www/duck/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /Applications/AMPPS/www/duck/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/AMPPS/www/duck/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-20 06:56:35 --> Too few arguments to function App\Controllers\Home::getSTudents(), 0 passed in /Applications/AMPPS/www/duck/system/CodeIgniter.php on line 928 and exactly 1 expected
+#0 /Applications/AMPPS/www/duck/system/CodeIgniter.php(928): App\Controllers\Home->getSTudents()
+#1 /Applications/AMPPS/www/duck/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /Applications/AMPPS/www/duck/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/AMPPS/www/duck/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-20 06:56:48 --> Too few arguments to function App\Controllers\Home::getSTudents(), 0 passed in /Applications/AMPPS/www/duck/system/CodeIgniter.php on line 928 and exactly 1 expected
+#0 /Applications/AMPPS/www/duck/system/CodeIgniter.php(928): App\Controllers\Home->getSTudents()
+#1 /Applications/AMPPS/www/duck/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /Applications/AMPPS/www/duck/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/AMPPS/www/duck/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-20 06:56:49 --> Too few arguments to function App\Controllers\Home::getSTudents(), 0 passed in /Applications/AMPPS/www/duck/system/CodeIgniter.php on line 928 and exactly 1 expected
+#0 /Applications/AMPPS/www/duck/system/CodeIgniter.php(928): App\Controllers\Home->getSTudents()
+#1 /Applications/AMPPS/www/duck/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /Applications/AMPPS/www/duck/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/AMPPS/www/duck/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-20 06:56:49 --> Too few arguments to function App\Controllers\Home::getSTudents(), 0 passed in /Applications/AMPPS/www/duck/system/CodeIgniter.php on line 928 and exactly 1 expected
+#0 /Applications/AMPPS/www/duck/system/CodeIgniter.php(928): App\Controllers\Home->getSTudents()
+#1 /Applications/AMPPS/www/duck/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /Applications/AMPPS/www/duck/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/AMPPS/www/duck/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-20 06:56:56 --> Too few arguments to function App\Controllers\Home::getSTudents(), 0 passed in /Applications/AMPPS/www/duck/system/CodeIgniter.php on line 928 and exactly 1 expected
+#0 /Applications/AMPPS/www/duck/system/CodeIgniter.php(928): App\Controllers\Home->getSTudents()
+#1 /Applications/AMPPS/www/duck/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /Applications/AMPPS/www/duck/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/AMPPS/www/duck/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-20 06:59:12 --> Too few arguments to function App\Controllers\Home::getSTudents(), 0 passed in /Applications/AMPPS/www/duck/system/CodeIgniter.php on line 928 and exactly 1 expected
+#0 /Applications/AMPPS/www/duck/system/CodeIgniter.php(928): App\Controllers\Home->getSTudents()
+#1 /Applications/AMPPS/www/duck/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /Applications/AMPPS/www/duck/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/AMPPS/www/duck/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-20 07:13:37 --> include_once(navbar): failed to open stream: No such file or directory
+#0 /Applications/AMPPS/www/duck/app/Views/home.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include_once(na...', '/Applications/A...', 15, Array)
+#1 /Applications/AMPPS/www/duck/app/Views/home.php(15): include_once()
+#2 /Applications/AMPPS/www/duck/system/View/View.php(230): include('/Applications/A...')
+#3 /Applications/AMPPS/www/duck/system/View/View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 /Applications/AMPPS/www/duck/system/Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#5 /Applications/AMPPS/www/duck/app/Controllers/Home.php(14): view('home')
+#6 /Applications/AMPPS/www/duck/system/CodeIgniter.php(928): App\Controllers\Home->index()
+#7 /Applications/AMPPS/www/duck/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /Applications/AMPPS/www/duck/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/AMPPS/www/duck/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-06-20 07:13:38 --> include_once(navbar): failed to open stream: No such file or directory
+#0 /Applications/AMPPS/www/duck/app/Views/home.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include_once(na...', '/Applications/A...', 15, Array)
+#1 /Applications/AMPPS/www/duck/app/Views/home.php(15): include_once()
+#2 /Applications/AMPPS/www/duck/system/View/View.php(230): include('/Applications/A...')
+#3 /Applications/AMPPS/www/duck/system/View/View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 /Applications/AMPPS/www/duck/system/Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#5 /Applications/AMPPS/www/duck/app/Controllers/Home.php(14): view('home')
+#6 /Applications/AMPPS/www/duck/system/CodeIgniter.php(928): App\Controllers\Home->index()
+#7 /Applications/AMPPS/www/duck/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /Applications/AMPPS/www/duck/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/AMPPS/www/duck/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-06-20 07:13:52 --> Use of undefined constant navbar - assumed 'navbar' (this will throw an Error in a future version of PHP)
+#0 /Applications/AMPPS/www/duck/app/Views/home.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/Applications/A...', 15, Array)
+#1 /Applications/AMPPS/www/duck/system/View/View.php(230): include('/Applications/A...')
+#2 /Applications/AMPPS/www/duck/system/View/View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /Applications/AMPPS/www/duck/system/Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#4 /Applications/AMPPS/www/duck/app/Controllers/Home.php(14): view('home')
+#5 /Applications/AMPPS/www/duck/system/CodeIgniter.php(928): App\Controllers\Home->index()
+#6 /Applications/AMPPS/www/duck/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /Applications/AMPPS/www/duck/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Applications/AMPPS/www/duck/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-06-20 07:13:58 --> Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP)
+#0 /Applications/AMPPS/www/duck/app/Views/home.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/Applications/A...', 15, Array)
+#1 /Applications/AMPPS/www/duck/system/View/View.php(230): include('/Applications/A...')
+#2 /Applications/AMPPS/www/duck/system/View/View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /Applications/AMPPS/www/duck/system/Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#4 /Applications/AMPPS/www/duck/app/Controllers/Home.php(14): view('home')
+#5 /Applications/AMPPS/www/duck/system/CodeIgniter.php(928): App\Controllers\Home->index()
+#6 /Applications/AMPPS/www/duck/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /Applications/AMPPS/www/duck/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Applications/AMPPS/www/duck/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-06-20 07:13:59 --> Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP)
+#0 /Applications/AMPPS/www/duck/app/Views/home.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/Applications/A...', 15, Array)
+#1 /Applications/AMPPS/www/duck/system/View/View.php(230): include('/Applications/A...')
+#2 /Applications/AMPPS/www/duck/system/View/View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /Applications/AMPPS/www/duck/system/Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#4 /Applications/AMPPS/www/duck/app/Controllers/Home.php(14): view('home')
+#5 /Applications/AMPPS/www/duck/system/CodeIgniter.php(928): App\Controllers\Home->index()
+#6 /Applications/AMPPS/www/duck/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /Applications/AMPPS/www/duck/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Applications/AMPPS/www/duck/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

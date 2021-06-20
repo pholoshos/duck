@@ -11,11 +11,11 @@ class Home extends BaseController
 	}
 	public function index()
 	{
-		return view('welcome_message');
+		return view('home');
 	}
 	
-	public function  getSTudents($age){
-		echo "hello world";
+	public function  getStudent($id){
+		echo "hello world ".$id;
 	}
 	
 }
