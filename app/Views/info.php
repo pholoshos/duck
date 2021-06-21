@@ -7,72 +7,34 @@
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
-    <style>
-        .c{
-            margin :10px;
-        }
-    </style>
-    <title>Hello, world!</title>
+
+    <title>info section</title>
   </head>
   <body>
     <?php
         include_once 'navbar.php';
     ?>
-    
     <div class="container">
         <br>
-        <h2>Your organisation database</h2>
-        <p><? $title ?></p>
+        <h2>Info</h2>
+        <p>Select an option below to proceed</p>
 
-        <br>
-        <hr>
-        <div class="container" >
-            <ul class="nav">
+
+        <div class="container" style="background-color:black">
+            <ul class="nav justify-content-center">
             <li class="nav-item">
-                <a class="btn c btn-success" aria-current="page" href="#">management</a>
+                <a class="nav-link active" aria-current="page" href="#">Active</a>
             </li>
             <li class="nav-item">
-                <a class="btn c btn-success" href="#">Add Student</a>
+                <a class="nav-link" href="#">Link</a>
             </li>
             <li class="nav-item">
-                <a class=" btn c btn-success" href="#">get info</a>
+                <a class="nav-link" href="#">Link</a>
             </li>
             <li class="nav-item">
-                <a class="btn c btn-success" href="#" tabindex="-1" aria-disabled="true">more</a>
+                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
             </li>
             </ul>
-        </div>
-        <br>
-        <div class="container">
-        <table class="table">
-            <thead>
-                <tr>
-                <th scope="col">#</th>
-                <th scope="col">First</th>
-                <th scope="col">Last</th>
-                <th scope="col">Ranking</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                <th scope="row">1</th>
-                <td>Mark</td>
-                <td>Otto</td>
-                <td>black</td>
-                </tr>
-                <tr>
-                <th scope="row">2</th>
-                <td>Jacob</td>
-                <td>Thornton</td>
-                <td>black</td>
-                </tr>
-                <tr>
-                <th scope="row">3</th>
-                <td colspan="2">Larry the Bird</td>
-                <td>black</td>
-                </tr>
-            </tbody>
-            </table>
         </div>
     </div>
 

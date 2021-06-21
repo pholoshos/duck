@@ -11,11 +11,16 @@ class Home extends BaseController
 	}
 	public function index()
 	{
-		return view('home');
+		$data['title'] = ucfirst("hello");
+		echo view('home',$data);
 	}
 	
 	public function  getStudent($id){
 		echo "hello world ".$id;
+	}
+	public function info(){
+		$data['title'] = ucfirst("hello");
+		return view('info');
 	}
 	
 }
